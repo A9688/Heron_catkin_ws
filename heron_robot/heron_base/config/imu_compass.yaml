@@ -1,0 +1,6 @@
+# Generated from /tmp/calibrate_compass.WJE2/imu_record.bag on 2018-06-01.
+mag_bias:
+     x: -0.112052
+     y: 0.416972
+     z: 1.117597
+     radius: 0.267697
